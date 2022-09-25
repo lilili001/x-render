@@ -14,3 +14,4 @@ title: 常见问题
 ```js
 import { Table as AntTable } from 'antd';
 ```
+### 3、交互中额外字段如何配置？
