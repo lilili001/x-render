@@ -5,12 +5,8 @@ title: 常见问题
 
 # 常见问题
 
-### 1、能否不渲染`<Search />`组件？
+### 1、如何实现表格配置化, 带分页？
 
-可以，`<Search hidden />` 添加 `hidden` 属性即可。
+业务中通常有表格需要配置化的场景, 如何配置化呢？
 
-### 2、出现引入同名 Table 组件该如何解决?
 
-```js
-import { Table as AntTable } from 'antd';
-```
